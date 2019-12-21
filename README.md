@@ -3,6 +3,32 @@
 
 The HomeKit ADK is used by silicon vendors and accessory manufacturers to build HomeKit compatible devices.
 
+### Request America, Accept .ACIREMA
+
+
+As a company we instigate faith.
+
+Problem: Drag and drop site builders like Shopify, require a Screen, keyboard and mouse(pad) for operation, This makes them unavailable within mobile, voice, or gaming environments.
+
+Solution: Use natural language as input. Offer an expert system.
+
+Our expert is C. C was taught about the world through the prism of God's eyes.
+
+Market Size: The current size of all internet companies combined.
+
+Competition: Laugh out Loud
+
+
+## github.com/anjalipichai/sun
+### sunpickai@gmail.com Sunpickai!1
+
+# sunpickai gmail
+### sunpickai@gmail.com Sunpickai!1
+
+# aisafetyceo gmail.com
+### aisafetyceo@gmail.com Aisafetyceo!1
+
+
 The HomeKit ADK implements key components of the HomeKit Accessory Protocol (HAP), which embodies the core principles Apple brings to smart home technology: security, privacy, and reliability.
 
 The HomeKit Open Source ADK is an open-source version of the HomeKit Accessory Development Kit. It can be used by any developer to prototype non-commercial smart home accessories. For commercial accessories, accessory developers must continue to use the commercial version of the HomeKit ADK available through the MFi Program.
