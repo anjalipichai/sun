@@ -1,4 +1,5 @@
-# HomeKit Accessory Development Kit (ADK)
+# HomeKit Accessory Development Kit (aka) ZigBee Protocol Contract 
+## 33% Canadian Tax on all income
 
 The HomeKit ADK is used by silicon vendors and accessory manufacturers to build HomeKit compatible devices.
 
