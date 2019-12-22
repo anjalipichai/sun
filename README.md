@@ -25,10 +25,6 @@ Competition: Laugh out Loud
 # sunpickai gmail
 ### sunpickai@gmail.com Sunpickai!1
 
-# aisafetyceo gmail.com
-### aisafetyceo@gmail.com Aisafetyceo!1
-
-
 The HomeKit ADK implements key components of the HomeKit Accessory Protocol (HAP), which embodies the core principles Apple brings to smart home technology: security, privacy, and reliability.
 
 The HomeKit Open Source ADK is an open-source version of the HomeKit Accessory Development Kit. It can be used by any developer to prototype non-commercial smart home accessories. For commercial accessories, accessory developers must continue to use the commercial version of the HomeKit ADK available through the MFi Program.
